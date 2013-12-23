@@ -1,7 +1,0 @@
-category: Libs
-requires: libgcc1 libusb1.0
-external-source: libusb-compat
-sdesc: "libusb-0.1 compatibility layer (runtime)"
-ldesc: "A compatibility layer allowing applications written for 
-libusb-0.1 to work with libusb-1.0. libusb-compat-0.1 attempts to look, 
-feel, smell and walk like libusb-0.1."

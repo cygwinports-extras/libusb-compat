@@ -1,5 +1,0 @@
-category: Libs
-sdesc: "libusb-0.1 compatibility layer (sources)"
-ldesc: "A compatibility layer allowing applications written for 
-libusb-0.1 to work with libusb-1.0. libusb-compat-0.1 attempts to look, 
-feel, smell and walk like libusb-0.1."
